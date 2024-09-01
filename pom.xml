@@ -18,6 +18,7 @@
 
     <modules>
         <module>AutoLinkHtmlFilter</module>
+        <module>CSVPlugin</module>
         <module>EmojiFilter</module>
         <module>EncryptedPageProvider</module>
         <module>GoComicsPlugin</module>
@@ -29,9 +30,9 @@
         <module>JDBCPlugin</module>
         <module>JiraPlugin</module>
         <module>PanelPlugin</module>
-        <!--
+        
         <module>PanelPluginPlus</module>
-        -->
+        
         <module>PasswordPlugin</module>
         <module>PluginListPlugin</module>
         <module>TreePlugin</module>
